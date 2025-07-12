@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritamm-018&label=Profile%20views&color=0e75b6&style=flat" alt="ritamm-018" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms in Java**
+
 
 - 📫 How to reach me **ritammdutta2005@gmail.com**
 
